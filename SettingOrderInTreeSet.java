@@ -4,7 +4,7 @@ import java.util.TreeSet;
 
 /**
  * @author O.Oletsky
- * An order in a TreeSet can be specified by a comparatot
+ * An order in a TreeSet can be specified by a comparator
  */
 
 public class SettingOrderInTreeSet {
