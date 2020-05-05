@@ -29,7 +29,7 @@ public class DemoArrayList {
         System.out.println(list.get(1)); //20
         //Putting element into middle of list
         list.add(1,100);
-        System.out.println(list); //10 20 100 30 40 50
+        System.out.println(list); //10 100 20 30 40 50
         //Finding an element
         int index = list.indexOf(100);
         System.out.println("Index of 100 is "+index); //1
